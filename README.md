@@ -32,7 +32,7 @@ Feature Engineering · Applied Machine Learning · Exploratory Data Analysis
 
 Tweets dataset is from Panacea Lab includes tweets with key
 wordscontaining “COVID-19”or“vaccine” from December1,2020
-to October 31, 2021. In this work
+to October 31, 2021. 
 
 > Due to data size, raw tweet datasets are not included
 > in this repository. 
@@ -91,6 +91,7 @@ This repository demonstrates:
 - Text vectorization and classification modeling
 - Exploratory predictive analysis using sentiment signals
 - Applied machine learning workflow
+
 
 
 
